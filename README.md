@@ -31,7 +31,7 @@ It showcases my:
 - Contact Information
 
 🔗 **Live Portfolio:**  
-https://dharsanram111-web.github.io/Dharsanram-web/
+
 
 ---
 
