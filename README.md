@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi 👋, I'm Dharsan S
 
-<!--
-**dharsanram111-web/dharsanram111-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 B.E. Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer  
+🌱 Learning and improving my technical skills  
+🚀 Interested in Web Development, AI and Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- Python
+- Java
+- HTML
+- Git & GitHub
+- Web Development
+
+---
+
+## 🚀 My Project
+
+### 🌐 Personal Portfolio Website
+
+My first personal portfolio website created using HTML and CSS.
+
+It showcases my:
+- Education
+- Skills
+- Achievements
+- Contact Information
+
+🔗 **Live Portfolio:**  
+https://dharsanram111-web.github.io/Dharsanram-web/
+
+---
+
+## 📚 Currently Learning
+
+- Python
+- Java
+- Web Development
+- Git & GitHub
+- Artificial Intelligence
+
+---
+
+## 🎯 Goals
+
+To improve my programming skills, build real-world projects,
+and grow as a Software Developer.
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: dharsanram111@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/dharsan-s-b34026420/
+
+💻 GitHub: https://github.com/dharsanram111-web
+
+---
+
+### 🌱 Learn. Build. Improve. Repeat.
